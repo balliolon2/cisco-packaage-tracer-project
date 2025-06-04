@@ -16,6 +16,6 @@
 - Cisco Package Tracer
 - วิธีการใช้งาน Cisco Package Tracer
     - ขอแค่รู้วิธีใช้ Cisco Package Tracer เบื้องต้นพอครับ เดี๋ยวเนื้อหาพื้นฐาน Networking ผมจะใส่ในโปรเจคนี้ด้วย สามารถเรียนรู้ไปพร้อมๆกันได้ครับ
-    - [![Watch the video](https://img.youtube.com/vi/h-xeI52SVeA/0.jpg)](https://youtu.be/h-xeI52SVeA?si=UcqpuuIyWo1L7UAw)
+    - [![Watch the video]](https://youtu.be/h-xeI52SVeA?si=UcqpuuIyWo1L7UAw)
 
 
