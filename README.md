@@ -20,4 +20,4 @@
 
 
 ## Steps
-1. [Basic Networking)](Steps/1_basic_networking.md)
+1. [Basic Networking](Steps/1_basic_networking.md)
