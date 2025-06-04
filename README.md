@@ -19,3 +19,5 @@
     - [ดูคลิปสอนวิธีใช้งานคร่าวๆ ได้ที่นี่](https://youtu.be/h-xeI52SVeA?si=UcqpuuIyWo1L7UAw)
 
 
+## Steps
+1. [Basic Networking)](Steps/1_basic_networking.md)
